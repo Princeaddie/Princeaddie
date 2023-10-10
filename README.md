@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Princeaddie
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning html,javascript and  c++
+- 👀 I’m interested in web development,data science,networking and cyber security 
+- 🌱 I’m currently learning html,javascript and python
 - 💞️ I’m looking to collaborate on on the above stated areas
 - 📫 How to reach me twitter @patrick06532161
 
